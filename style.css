@@ -1,0 +1,23 @@
+a {color: blueviolet}
+
+.footer{
+    width: 70%
+    height: 50px;
+    border: 1px solidcolor black;
+    bottom: 0;
+    position: absolute;
+    margin: 0;
+}
+
+img {
+    height:250px
+}
+
+.container{
+    width: 50%;
+    margin-bottom: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
